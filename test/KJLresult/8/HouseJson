@@ -1,0 +1,1254 @@
+{
+    "Corners": [
+        {
+            "ID": "19d1ead2-94a7-11e8-8a0c-9cb6d0b70318",
+            "X": 7892.525667351129,
+            "Y": 8648.193018480493
+        },
+        {
+            "ID": "19d1ead3-94a7-11e8-b7f7-9cb6d0b70318",
+            "X": 7892.525667351129,
+            "Y": 10243.490759753595
+        },
+        {
+            "ID": "19d1ead4-94a7-11e8-a08c-9cb6d0b70318",
+            "X": 1693.2546201232035,
+            "Y": 9613.767967145792
+        },
+        {
+            "ID": "19d1ead5-94a7-11e8-809f-9cb6d0b70318",
+            "X": 1693.2546201232035,
+            "Y": 10243.490759753595
+        },
+        {
+            "ID": "19d1ead6-94a7-11e8-825d-9cb6d0b70318",
+            "X": 3484.4661190965094,
+            "Y": 6045.338809034908
+        },
+        {
+            "ID": "19d1ead7-94a7-11e8-be6c-9cb6d0b70318",
+            "X": 3484.4661190965094,
+            "Y": 10243.490759753595
+        },
+        {
+            "ID": "19d1ead8-94a7-11e8-a94a-9cb6d0b70318",
+            "X": 11586.899383983573,
+            "Y": 8648.193018480493
+        },
+        {
+            "ID": "19d1ead9-94a7-11e8-9d0d-9cb6d0b70318",
+            "X": 11586.899383983573,
+            "Y": 8942.0636550308
+        },
+        {
+            "ID": "19d1eada-94a7-11e8-ad59-9cb6d0b70318",
+            "X": 15085.359342915812,
+            "Y": 7150.852156057495
+        },
+        {
+            "ID": "19d1eadb-94a7-11e8-9dff-9cb6d0b70318",
+            "X": 15085.359342915812,
+            "Y": 8942.0636550308
+        },
+        {
+            "ID": "19d1eadc-94a7-11e8-b985-9cb6d0b70318",
+            "X": 11586.899383983573,
+            "Y": 6451.1601642710475
+        },
+        {
+            "ID": "19d1eadd-94a7-11e8-a260-9cb6d0b70318",
+            "X": 12958.295687885011,
+            "Y": 6451.1601642710475
+        },
+        {
+            "ID": "19d1eade-94a7-11e8-89a0-9cb6d0b70318",
+            "X": 12958.295687885011,
+            "Y": 7150.852156057495
+        },
+        {
+            "ID": "19d1eadf-94a7-11e8-be45-9cb6d0b70318",
+            "X": 15085.359342915812,
+            "Y": 4450.041067761807
+        },
+        {
+            "ID": "19d1eae0-94a7-11e8-a7ca-9cb6d0b70318",
+            "X": 11586.899383983573,
+            "Y": 6591.098562628337
+        },
+        {
+            "ID": "19d1eae1-94a7-11e8-bcd1-9cb6d0b70318",
+            "X": 2392.946611909651,
+            "Y": 5093.7577002053395
+        },
+        {
+            "ID": "19d1eae2-94a7-11e8-9a47-9cb6d0b70318",
+            "X": 2392.946611909651,
+            "Y": 6045.338809034908
+        },
+        {
+            "ID": "19d1eae3-94a7-11e8-bf03-9cb6d0b70318",
+            "X": 5891.406570841889,
+            "Y": 4240.133470225873
+        },
+        {
+            "ID": "19d1eae4-94a7-11e8-9b12-9cb6d0b70318",
+            "X": 5891.406570841889,
+            "Y": 6045.338809034908
+        },
+        {
+            "ID": "19d1eae5-94a7-11e8-a527-9cb6d0b70318",
+            "X": 7892.525667351129,
+            "Y": 4240.133470225873
+        },
+        {
+            "ID": "19d1eae6-94a7-11e8-acf0-9cb6d0b70318",
+            "X": 7892.525667351129,
+            "Y": 6045.338809034908
+        },
+        {
+            "ID": "19d1eae7-94a7-11e8-af30-9cb6d0b70318",
+            "X": 2392.946611909651,
+            "Y": 6633.080082135524
+        },
+        {
+            "ID": "19d1eae8-94a7-11e8-96dd-9cb6d0b70318",
+            "X": 9179.958932238194,
+            "Y": 4184.158110882957
+        },
+        {
+            "ID": "19d1eae9-94a7-11e8-8d5e-9cb6d0b70318",
+            "X": 9179.958932238194,
+            "Y": 4450.041067761807
+        },
+        {
+            "ID": "19d1eaea-94a7-11e8-90f0-9cb6d0b70318",
+            "X": 15085.359342915812,
+            "Y": 4114.188911704312
+        },
+        {
+            "ID": "19d1eaeb-94a7-11e8-9c56-9cb6d0b70318",
+            "X": 7892.525667351129,
+            "Y": 2448.921971252567
+        },
+        {
+            "ID": "19d1eaec-94a7-11e8-9648-9cb6d0b70318",
+            "X": 7892.525667351129,
+            "Y": 3204.5893223819303
+        },
+        {
+            "ID": "19d1eaed-94a7-11e8-b520-9cb6d0b70318",
+            "X": 7892.525667351129,
+            "Y": 2211.0266940451747
+        },
+        {
+            "ID": "19d1eaee-94a7-11e8-a879-9cb6d0b70318",
+            "X": 10285.47227926078,
+            "Y": 1343.4086242299795
+        },
+        {
+            "ID": "19d1eaef-94a7-11e8-af17-9cb6d0b70318",
+            "X": 10285.47227926078,
+            "Y": 3204.5893223819303
+        },
+        {
+            "ID": "19d1eaf0-94a7-11e8-be36-9cb6d0b70318",
+            "X": 11586.899383983573,
+            "Y": 5387.628336755647
+        },
+        {
+            "ID": "19d1eaf1-94a7-11e8-9c5f-9cb6d0b70318",
+            "X": 15085.359342915812,
+            "Y": 1343.4086242299795
+        },
+        {
+            "ID": "19d1eaf2-94a7-11e8-945d-9cb6d0b70318",
+            "X": 2392.946611909651,
+            "Y": 2448.921971252567
+        },
+        {
+            "ID": "19d1eaf3-94a7-11e8-8c2f-9cb6d0b70318",
+            "X": 5891.406570841889,
+            "Y": 2448.921971252567
+        },
+        {
+            "ID": "19d1eaf4-94a7-11e8-bad3-9cb6d0b70318",
+            "X": 7892.525667351129,
+            "Y": 1343.4086242299795
+        },
+        {
+            "ID": "19d1eaf5-94a7-11e8-a36f-9cb6d0b70318",
+            "X": 1567.3100616016427,
+            "Y": 5093.7577002053395
+        },
+        {
+            "ID": "19d1eaf6-94a7-11e8-a7f3-9cb6d0b70318",
+            "X": 1567.3100616016427,
+            "Y": 6633.080082135524
+        },
+        {
+            "ID": "19d1eaf7-94a7-11e8-a2ed-9cb6d0b70318",
+            "X": 1567.3100616016427,
+            "Y": 2448.921971252567
+        },
+        {
+            "ID": "19d1eaf8-94a7-11e8-b6c5-9cb6d0b70318",
+            "X": 8116.427104722793,
+            "Y": 3204.5893223819303
+        },
+        {
+            "ID": "19d1eaf9-94a7-11e8-88e0-9cb6d0b70318",
+            "X": 9305.903490759754,
+            "Y": 3204.5893223819303
+        },
+        {
+            "ID": "19d1eafa-94a7-11e8-8e64-9cb6d0b70318",
+            "X": 8900.082135523615,
+            "Y": 3204.5893223819303
+        }
+    ],
+    "Rooms": [],
+    "Walls": [
+        {
+            "ID": "c8e1eb22-a627-3daa-884c-2205cf78d075",
+            "StartCorner": "19d1ead2-94a7-11e8-8a0c-9cb6d0b70318",
+            "EndCorner": "19d1ead3-94a7-11e8-b7f7-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "9311744c-3746-3502-84c9-d06e8b5ea2d6",
+            "StartCorner": "19d1ead4-94a7-11e8-a08c-9cb6d0b70318",
+            "EndCorner": "19d1ead5-94a7-11e8-809f-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "4bb9c1a0-ded7-3f16-93fb-bd2cbac9a815",
+            "StartCorner": "19d1ead6-94a7-11e8-825d-9cb6d0b70318",
+            "EndCorner": "19d1ead7-94a7-11e8-be6c-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 111.95071868583163,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "78f8cf0b-0c6a-3fb8-9d24-1e4a8e882eaa",
+            "StartCorner": "19d1ead8-94a7-11e8-a94a-9cb6d0b70318",
+            "EndCorner": "19d1ead9-94a7-11e8-9d0d-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 111.95071868583163,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "c8f0193b-cdc1-3f89-93db-2fc9698580bd",
+            "StartCorner": "19d1eada-94a7-11e8-ad59-9cb6d0b70318",
+            "EndCorner": "19d1eadb-94a7-11e8-9dff-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "80c57eb0-2acb-36ac-89f9-95f0481c77a6",
+            "StartCorner": "19d1eadc-94a7-11e8-b985-9cb6d0b70318",
+            "EndCorner": "19d1ead8-94a7-11e8-a94a-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 111.95071868583163,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "f98be397-abfb-3f91-8448-29738a166724",
+            "StartCorner": "19d1eadd-94a7-11e8-a260-9cb6d0b70318",
+            "EndCorner": "19d1eade-94a7-11e8-89a0-9cb6d0b70318",
+            "LeftThick": 69.96919917864477,
+            "RightThick": 55.975359342915816,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "ccfcea68-5ad0-3f02-9565-f4a496b398e6",
+            "StartCorner": "19d1eadf-94a7-11e8-be45-9cb6d0b70318",
+            "EndCorner": "19d1eada-94a7-11e8-ad59-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "ad0ba92c-49be-3dd4-a57e-9937c835ee7a",
+            "StartCorner": "19d1eadc-94a7-11e8-b985-9cb6d0b70318",
+            "EndCorner": "19d1eae0-94a7-11e8-a7ca-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 111.95071868583163,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "021e4910-26aa-36f6-9b2e-40e7fa27f124",
+            "StartCorner": "19d1eae1-94a7-11e8-bcd1-9cb6d0b70318",
+            "EndCorner": "19d1eae2-94a7-11e8-9a47-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "4c760b19-ee4a-34c2-bf58-4c2580f064d0",
+            "StartCorner": "19d1eae3-94a7-11e8-bf03-9cb6d0b70318",
+            "EndCorner": "19d1eae4-94a7-11e8-9b12-9cb6d0b70318",
+            "LeftThick": 69.96919917864477,
+            "RightThick": 69.96919917864477,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "012a6243-4fe1-3b3f-9ef2-305b0f609f81",
+            "StartCorner": "19d1eae5-94a7-11e8-a527-9cb6d0b70318",
+            "EndCorner": "19d1eae6-94a7-11e8-acf0-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "48221549-0cb2-3f55-9e57-ed1d230391bc",
+            "StartCorner": "19d1eae2-94a7-11e8-9a47-9cb6d0b70318",
+            "EndCorner": "19d1eae7-94a7-11e8-af30-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "36273f37-0f38-3c24-a082-31e6542f612c",
+            "StartCorner": "19d1eae8-94a7-11e8-96dd-9cb6d0b70318",
+            "EndCorner": "19d1eae9-94a7-11e8-8d5e-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 111.95071868583163,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "009b03cb-7e68-318a-96a7-a96f0aa48a3e",
+            "StartCorner": "19d1eaea-94a7-11e8-90f0-9cb6d0b70318",
+            "EndCorner": "19d1eadf-94a7-11e8-be45-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "dee4fd48-b6c0-3816-a214-4e6ff3176277",
+            "StartCorner": "19d1eaeb-94a7-11e8-9c56-9cb6d0b70318",
+            "EndCorner": "19d1eaec-94a7-11e8-9648-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "0b3a9512-4f41-3903-8705-2df4c7427ce3",
+            "StartCorner": "19d1eaed-94a7-11e8-b520-9cb6d0b70318",
+            "EndCorner": "19d1eaeb-94a7-11e8-9c56-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "92dc7c9b-a35b-3363-ae78-3ef5ef11d14a",
+            "StartCorner": "19d1eaec-94a7-11e8-9648-9cb6d0b70318",
+            "EndCorner": "19d1eae5-94a7-11e8-a527-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "4b0f2d31-630a-3ccf-9198-d7d64d8f7526",
+            "StartCorner": "19d1eaee-94a7-11e8-a879-9cb6d0b70318",
+            "EndCorner": "19d1eaef-94a7-11e8-af17-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "9e9326dc-ab99-3a46-b5ed-6658c6cbad05",
+            "StartCorner": "19d1eaf0-94a7-11e8-be36-9cb6d0b70318",
+            "EndCorner": "19d1eadc-94a7-11e8-b985-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 111.95071868583163,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "a1fc8ecd-7924-329e-85f8-f4acffc2bdee",
+            "StartCorner": "19d1eaf1-94a7-11e8-9c5f-9cb6d0b70318",
+            "EndCorner": "19d1eadf-94a7-11e8-be45-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "42a924a3-4754-3360-aabc-27f7c2db221f",
+            "StartCorner": "19d1eaf2-94a7-11e8-945d-9cb6d0b70318",
+            "EndCorner": "19d1eae1-94a7-11e8-bcd1-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "c7a5d40d-597d-3545-9d8e-c1ca05c4a5e7",
+            "StartCorner": "19d1eaf3-94a7-11e8-8c2f-9cb6d0b70318",
+            "EndCorner": "19d1eae3-94a7-11e8-bf03-9cb6d0b70318",
+            "LeftThick": 69.96919917864477,
+            "RightThick": 69.96919917864477,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "495272bf-344a-36d0-bac0-7eda51055bd7",
+            "StartCorner": "19d1eaf4-94a7-11e8-bad3-9cb6d0b70318",
+            "EndCorner": "19d1eaeb-94a7-11e8-9c56-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "8cfdf35b-d897-33e6-bdc0-8621e3be1dcc",
+            "StartCorner": "19d1ead2-94a7-11e8-8a0c-9cb6d0b70318",
+            "EndCorner": "19d1ead8-94a7-11e8-a94a-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "0a25865b-970a-3281-b8de-aac852124754",
+            "StartCorner": "19d1ead5-94a7-11e8-809f-9cb6d0b70318",
+            "EndCorner": "19d1ead7-94a7-11e8-be6c-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "8f3c2639-db32-3adc-af34-97a8f872fd36",
+            "StartCorner": "19d1ead7-94a7-11e8-be6c-9cb6d0b70318",
+            "EndCorner": "19d1ead3-94a7-11e8-b7f7-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "0e45e296-08a3-3349-99f0-a02913160ea6",
+            "StartCorner": "19d1ead9-94a7-11e8-9d0d-9cb6d0b70318",
+            "EndCorner": "19d1eadb-94a7-11e8-9dff-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "d84ca17c-bddb-3cc6-a801-7b32dd081966",
+            "StartCorner": "19d1eadc-94a7-11e8-b985-9cb6d0b70318",
+            "EndCorner": "19d1eadd-94a7-11e8-a260-9cb6d0b70318",
+            "LeftThick": 55.975359342915816,
+            "RightThick": 69.96919917864477,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "d8229437-a66d-372b-b37e-0c99a0c10b82",
+            "StartCorner": "19d1eade-94a7-11e8-89a0-9cb6d0b70318",
+            "EndCorner": "19d1eada-94a7-11e8-ad59-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "cb925521-9364-30b4-bca8-6864225fa387",
+            "StartCorner": "19d1eaf5-94a7-11e8-a36f-9cb6d0b70318",
+            "EndCorner": "19d1eae1-94a7-11e8-bcd1-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 139.93839835728954,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "5a8a682d-cde0-3f79-8714-611640ad72c9",
+            "StartCorner": "19d1ead6-94a7-11e8-825d-9cb6d0b70318",
+            "EndCorner": "19d1eae4-94a7-11e8-9b12-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "77d8a03c-8ec8-3d73-be30-60cc1d67fa4e",
+            "StartCorner": "19d1eae4-94a7-11e8-9b12-9cb6d0b70318",
+            "EndCorner": "19d1eae6-94a7-11e8-acf0-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "d9576391-be3f-31f6-8461-79bc5503c6a4",
+            "StartCorner": "19d1eae2-94a7-11e8-9a47-9cb6d0b70318",
+            "EndCorner": "19d1ead6-94a7-11e8-825d-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "f020cc52-5f5f-3ad6-ba61-0cf61b0d45ee",
+            "StartCorner": "19d1eaf6-94a7-11e8-a7f3-9cb6d0b70318",
+            "EndCorner": "19d1eae7-94a7-11e8-af30-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 139.93839835728954,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "15640e38-7aa1-31b3-a9ad-59cca28ae3e9",
+            "StartCorner": "19d1eae9-94a7-11e8-8d5e-9cb6d0b70318",
+            "EndCorner": "19d1eadf-94a7-11e8-be45-9cb6d0b70318",
+            "LeftThick": 125.94455852156058,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "da4743b9-3b96-3409-be1b-fed5f477d223",
+            "StartCorner": "19d1eaf3-94a7-11e8-8c2f-9cb6d0b70318",
+            "EndCorner": "19d1eaeb-94a7-11e8-9c56-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "08998a0c-fcf4-34a9-b444-f2bfc15731dc",
+            "StartCorner": "19d1eae3-94a7-11e8-bf03-9cb6d0b70318",
+            "EndCorner": "19d1eae5-94a7-11e8-a527-9cb6d0b70318",
+            "LeftThick": 69.96919917864477,
+            "RightThick": 83.96303901437372,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "31c2aea8-5c8e-373f-bbe8-478da241e1fc",
+            "StartCorner": "19d1eaf2-94a7-11e8-945d-9cb6d0b70318",
+            "EndCorner": "19d1eaf3-94a7-11e8-8c2f-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "dbc6ad8f-311c-3794-ad2e-521f0e6684cc",
+            "StartCorner": "19d1eaf7-94a7-11e8-a2ed-9cb6d0b70318",
+            "EndCorner": "19d1eaf2-94a7-11e8-945d-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "26b3fac0-d998-37fd-bd36-7f7c3b0cae7e",
+            "StartCorner": "19d1eaec-94a7-11e8-9648-9cb6d0b70318",
+            "EndCorner": "19d1eaf8-94a7-11e8-b6c5-9cb6d0b70318",
+            "LeftThick": 69.96919917864477,
+            "RightThick": 69.96919917864477,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "cada52b5-6a10-30dd-8cc0-74a5b4bf9c1e",
+            "StartCorner": "19d1eaee-94a7-11e8-a879-9cb6d0b70318",
+            "EndCorner": "19d1eaf1-94a7-11e8-9c5f-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "2cf4551e-aa4a-3d36-a3d2-65bc6818266e",
+            "StartCorner": "19d1eaf9-94a7-11e8-88e0-9cb6d0b70318",
+            "EndCorner": "19d1eaef-94a7-11e8-af17-9cb6d0b70318",
+            "LeftThick": 69.96919917864477,
+            "RightThick": 69.96919917864477,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "23ea1baf-6ab4-3aba-adc9-ce1e94afe80f",
+            "StartCorner": "19d1eafa-94a7-11e8-8e64-9cb6d0b70318",
+            "EndCorner": "19d1eaf9-94a7-11e8-88e0-9cb6d0b70318",
+            "LeftThick": 69.96919917864477,
+            "RightThick": 181.9199178644764,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        },
+        {
+            "ID": "af098f79-d7dc-37b7-a418-5b15cbc72aca",
+            "StartCorner": "19d1eaf4-94a7-11e8-bad3-9cb6d0b70318",
+            "EndCorner": "19d1eaee-94a7-11e8-a879-9cb6d0b70318",
+            "LeftThick": 111.95071868583163,
+            "RightThick": 125.94455852156058,
+            "Height": "NOT_DEFINE",
+            "ArcWall": {
+                "IsArc": "NOT_DEFINE",
+                "PositionOnArc": {
+                    "X": "NOT_DEFINE",
+                    "Y": "NOT_DEFINE"
+                }
+            },
+            "Usage": 1
+        }
+    ],
+    "WallOpenings": [
+        {
+            "ID": "19d21290-94a7-11e8-9650-9cb6d0b70318",
+            "XFlip": 1,
+            "YFlip": 1,
+            "Location": {
+                "X": 10901.201232032854,
+                "Y": 8648.193018480493,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 97.95687885010267,
+            "RightThick": 111.95071868583163,
+            "Width": 923.5934291581125,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "8cfdf35b-d897-33e6-bdc0-8621e3be1dcc",
+            "Type": 2,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d21291-94a7-11e8-af45-9cb6d0b70318",
+            "XFlip": 1,
+            "YFlip": 1,
+            "Location": {
+                "X": 11586.899383983573,
+                "Y": 4988.803901437372,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 111.95071868583163,
+            "RightThick": 97.95687885010267,
+            "Width": 825.6365503080078,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "9e9326dc-ab99-3a46-b5ed-6658c6cbad05",
+            "Type": 2,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d21292-94a7-11e8-9952-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 0,
+            "Location": {
+                "X": 6451.1601642710475,
+                "Y": 4240.133470225873,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 55.975359342915816,
+            "RightThick": 69.96919917864477,
+            "Width": 811.6427104722788,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "08998a0c-fcf4-34a9-b444-f2bfc15731dc",
+            "Type": 2,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d21293-94a7-11e8-a3fb-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 0,
+            "Location": {
+                "X": 7892.525667351129,
+                "Y": 4827.874743326489,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 111.95071868583163,
+            "RightThick": 111.95071868583163,
+            "Width": 811.6427104722788,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "012a6243-4fe1-3b3f-9ef2-305b0f609f81",
+            "Type": 2,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d21294-94a7-11e8-b26e-9cb6d0b70318",
+            "XFlip": 1,
+            "YFlip": 1,
+            "Location": {
+                "X": 9179.958932238194,
+                "Y": 3785.333675564682,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 111.95071868583163,
+            "RightThick": 97.95687885010267,
+            "Width": 825.6365503080078,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "36273f37-0f38-3c24-a082-31e6542f612c",
+            "Type": 2,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d21295-94a7-11e8-b3cd-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 0,
+            "Location": {
+                "X": 8508.254620123203,
+                "Y": 3204.5893223819303,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 55.975359342915816,
+            "RightThick": 55.975359342915816,
+            "Width": 811.6427104722788,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "26b3fac0-d998-37fd-bd36-7f7c3b0cae7e",
+            "Type": 2,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d21296-94a7-11e8-a1ce-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 0,
+            "Location": {
+                "X": 11600.893223819303,
+                "Y": 7346.765913757701,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 83.96303901437372,
+            "RightThick": 83.96303901437372,
+            "Width": 1455.3593429158109,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "80c57eb0-2acb-36ac-89f9-95f0481c77a6",
+            "Type": 4,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d23928-94a7-11e8-8929-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 0,
+            "Location": {
+                "X": 3484.4661190965094,
+                "Y": 8130.420944558522,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 125.94455852156058,
+            "RightThick": 111.95071868583163,
+            "Width": 2518.8911704312122,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "4bb9c1a0-ded7-3f16-93fb-bd2cbac9a815",
+            "Type": 4,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d23929-94a7-11e8-9bac-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 1,
+            "Location": {
+                "X": 7906.519507186858,
+                "Y": 1924.1529774127312,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 111.95071868583163,
+            "RightThick": 111.95071868583163,
+            "Width": 601.7351129363451,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "495272bf-344a-36d0-bac0-7eda51055bd7",
+            "Type": 10,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d2392a-94a7-11e8-87f9-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 1,
+            "Location": {
+                "X": 15099.353182751542,
+                "Y": 2994.6817248459956,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 111.95071868583163,
+            "RightThick": 111.95071868583163,
+            "Width": 2267.00205338809,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "a1fc8ecd-7924-329e-85f8-f4acffc2bdee",
+            "Type": 10,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d2392b-94a7-11e8-9705-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 1,
+            "Location": {
+                "X": 1707.2484599589322,
+                "Y": 3771.3398357289534,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 111.95071868583163,
+            "RightThick": 111.95071868583163,
+            "Width": 2420.934291581109,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "cb925521-9364-30b4-bca8-6864225fa387",
+            "Type": 10,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d2392c-94a7-11e8-bdab-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 1,
+            "Location": {
+                "X": 15099.353182751542,
+                "Y": 5800.446611909651,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 111.95071868583163,
+            "RightThick": 111.95071868583163,
+            "Width": 1497.3408624229978,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "ccfcea68-5ad0-3f02-9565-f4a496b398e6",
+            "Type": 10,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d2392d-94a7-11e8-9262-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 1,
+            "Location": {
+                "X": 15099.353182751542,
+                "Y": 8144.414784394252,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 111.95071868583163,
+            "RightThick": 111.95071868583163,
+            "Width": 811.6427104722798,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "c8f0193b-cdc1-3f89-93db-2fc9698580bd",
+            "Type": 10,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d2392e-94a7-11e8-8313-9cb6d0b70318",
+            "XFlip": 1,
+            "YFlip": 0,
+            "Location": {
+                "X": 7157.8490759753595,
+                "Y": 2462.915811088296,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 97.95687885010267,
+            "RightThick": 97.95687885010267,
+            "Width": 601.7351129363451,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "da4743b9-3b96-3409-be1b-fed5f477d223",
+            "Type": 10,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        },
+        {
+            "ID": "19d2392f-94a7-11e8-9329-9cb6d0b70318",
+            "XFlip": 0,
+            "YFlip": 1,
+            "Location": {
+                "X": 2280.9958932238196,
+                "Y": 5870.415811088296,
+                "Z": "NOT_DEFINE"
+            },
+            "LeftThick": 0.0,
+            "RightThick": 699.6919917864477,
+            "Width": 1301.427104722793,
+            "Height": "NOT_DEFINE",
+            "OwnerWallID": "021e4910-26aa-36f6-9b2e-40e7fa27f124",
+            "Type": 11,
+            "ArcInfo": {
+                "ArchHeight": "NOT_DEFINE"
+            },
+            "ModelID": "",
+            "MatID": ""
+        }
+    ],
+    "Electricities": [],
+    "Pillars": [],
+    "FluePipes": [],
+    "Rulers": [],
+    "TextLabels": []
+}
